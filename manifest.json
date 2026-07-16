@@ -1,0 +1,7 @@
+{
+  "name": "Word Duel",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "icon": "icon.png",
+  "repo": "https://github.com/shoebox-apps/app-word-duel"
+}
